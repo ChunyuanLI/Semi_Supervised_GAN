@@ -3,11 +3,10 @@
 Tensorflow implementation for Semi Supervised using GAN
 
 
-Train the model with improved GAN or ALI. 
-
-To train:
-
+Train the model with improved GAN:
 
     $ python train_cifar_feature_matching_tf.py
+
+or ALI. 
 
     $ python train_cifar_feature_matching_ali_tf.py
