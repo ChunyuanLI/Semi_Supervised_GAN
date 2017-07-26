@@ -15,4 +15,4 @@ or ALI.
 #### Reference:
 The implementation is heavily based on the Theano code: 
 
-    https://github.com/openai/improved-gan/tree/master/mnist_svhn_cifar10
+ https://github.com/openai/improved-gan/tree/master/mnist_svhn_cifar10
